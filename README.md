@@ -1,5 +1,5 @@
 ## hyprland .dotfiles
 <br>
-beautifully designed theme in blue color.
+beautifully designed in blue color theme.
 <br>
  - Fonts: Iosevka
